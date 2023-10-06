@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.Container{
+  width: 550px;
+  height: 550px;
+  
+  display: flex;
+ 
+  flex-direction: column;
+}
